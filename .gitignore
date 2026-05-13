@@ -217,4 +217,5 @@ wheels/
 
 # Virtual environments
 .venv
+data/raw/*.pdf
 >>>>>>> 75a18d1 (initial)
